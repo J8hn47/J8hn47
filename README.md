@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @J8hn47
-- 👀 I’m interested in front-end mostly, but also back-end.
+- 👀 I’m interested learning more on front-end as well as back-end, although the latter has become my favorite overtime.
 - 🌱 I have graduated as Computer Programmer in 2020, but lack experience.
-- 💞️ I’m looking to collaborate on small projects to improve my overall understanding and skills in HTML, CSS, JavaScript, and back-end such as Python and Java.
+- 💞️ I’m looking to collaborate on small projects to improve my overall understanding and skills in HTML, CSS, JavaScript, Python, Java, ...
 - 📫 How to reach me ...
 
 <!---
